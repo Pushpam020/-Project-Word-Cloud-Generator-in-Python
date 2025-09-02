@@ -18,7 +18,7 @@ pip install pandas matplotlib wordcloud
 ## Dataset
 This project uses the IMDB Dataset.csv, which contains movie reviews.
 ```bash
-"C:\Users\kumar\Downloads\IMDB Dataset.csv\IMDB Dataset.csv"
+https://drive.google.com/file/d/1zhNaC7kn875sWWinNTpcIerPu3eSrt0J/view?usp=sharing
 ```
 
 ## Usage
