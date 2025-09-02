@@ -4,14 +4,12 @@ Word Cloud Generator in Python is a project that demonstrates how to create visu
 A word cloud is a graphical representation of text data where the size of each word reflects its frequency or importance.
 
 🔹 Libraries Used
-
 pandas → Load and manipulate the dataset
 re → Clean text using regular expressions
 wordcloud → Generate word clouds
 matplotlib.pyplot → Display word cloud plots
 
 🔹 Installation
-
 Make sure you have Python installed (>=3.8). Install the required libraries with:
 
 pip install pandas matplotlib wordcloud
@@ -19,12 +17,10 @@ pip install pandas matplotlib wordcloud
 (re is built into Python, no installation required ✅)
 
 🔹 Dataset
-
 This project uses the IMDB Dataset.csv, which contains movie reviews.
 "C:\Users\kumar\Downloads\IMDB Dataset.csv\IMDB Dataset.csv"
 
 🔹 Usage
-
 Run the Python script:
 
 python wordcloud_generator.py
