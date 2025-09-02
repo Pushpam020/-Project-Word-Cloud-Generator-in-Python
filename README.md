@@ -1,4 +1,4 @@
-📌 Word Cloud Generator in Python
+### Word Cloud Generator in Python
 
 Word Cloud Generator in Python is a project that demonstrates how to create visual word clouds from a dataset of movie reviews.
 A word cloud is a graphical representation of text data where the size of each word reflects its frequency or importance.
